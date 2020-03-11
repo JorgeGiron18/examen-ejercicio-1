@@ -1,0 +1,62 @@
+
+body{
+    margin:0;
+    font-family: sans-serif;
+    background-color: grey;
+    
+}   
+
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color:rgb(231, 4, 4);
+    width: 100%;
+    height: 20%;
+    align-items: center;
+    font-family: cursive;
+    box-shadow: 0 1px 5px;
+
+}    
+.encabezado2{
+    font-size: 40px;
+    color: honeydew;
+ 
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    margin:10% ;
+    margin-top: 10px;
+}
+.caja{
+    width: 300px;
+    height: 550px;
+    background-color: honeydew;
+   margin-right: 15px;
+   margin-top: 20px;
+   text-align: start;
+
+}
+
+.caja img{
+    width: 300px;
+    height: 200;
+}
+
+.caja h1{
+    font-size: 15px;
+    padding-left:10px ;
+
+}
+
+.caja h2{
+    font-size: 25px;
+    padding-left:10px ;
+    color: red
+
+}
+
+
+
+
+
